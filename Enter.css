@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.logo {
+    margin: 3;
+}
+
+.main__welcome {
+    position:absolute;
+    top: 35%;
+    left: 35%;
+}
