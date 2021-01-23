@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: salmon;
+}
+
+.logo {
+    margin: 3;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 6px;
+}
+.main__welcome {
+    position:absolute;
+    top: 35%;
+    left: 32%;
+    text-align: center;
+}
+
+.welcome__hi {
+    font-size : 48px;
+    color: white;
+}
+
+.welcome__question {
+    font-size: 36px;
+    color: white;
+}
+
+.main__input {
+    margin-top: 10%;
+}
+
+.welcome__input {
+    font-size : 60px;
+    border: none;
+    background: transparent;
+    text-align: center;
+}
